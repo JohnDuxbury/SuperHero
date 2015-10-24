@@ -1,0 +1,138 @@
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\csc.exe
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\vbc.exe
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\VBCSCompiler.exe
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Superhero.dll.config
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Superhero.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Superhero.pdb
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Antlr3.Runtime.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\EntityFramework.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\EntityFramework.SqlServer.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Newtonsoft.Json.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Owin.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Helpers.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Mvc.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Optimization.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Razor.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.Razor.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\WebGrease.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Helpers.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Mvc.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Optimization.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.Razor.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\System.Web.WebPages.Razor.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Antlr3.Runtime.pdb
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Newtonsoft.Json.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\EntityFramework.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\EntityFramework.SqlServer.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\obj\Release\Superhero.csprojResolveAssemblyReference.cache
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\obj\Release\Superhero.dll
+C:\Users\HoffsTech-VM\Documents\Visual Studio 2015\Projects\Superhero\Superhero\obj\Release\Superhero.pdb
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Superhero.dll.config
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Superhero.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Superhero.pdb
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Core.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Owin.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Cookies.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Facebook.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Google.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.OAuth.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Twitter.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Owin.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Core.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.Owin.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Facebook.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Cookies.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.OAuth.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Google.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.Twitter.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\obj\Release\Superhero.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\obj\Release\Superhero.dll
+\\vmware-host\Shared Folders\Downloads\Superhero\Superhero\obj\Release\Superhero.pdb
